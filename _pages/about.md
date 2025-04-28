@@ -15,7 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently working on [PyTorch] at Meta where I started the [TorchDynamo]
+I am currently a second year Ph.D. student at Umich. I am fortunate to be advised by Professor [Salar Fattahi]. 
+My research focuses on developing efficient and robust computational methods for structured problems in optimization, 
+statistics and machine learning. In particular, I explore new optimization techniques, leveraging structure in data 
+to reduce computational overhead, and building models that can adaptively detect and defend against corruption and 
+noise in real-time. I welcome future collaborations. Please feel free to contact me via Email!
+
+<!-- I am currently working on [PyTorch] at Meta where I started the [TorchDynamo]
 and [TorchInductor] projects, both of which are foundational parts of
 [PyTorch 2.0].  TorchDynamo is a Python-level JIT compiler designed to
 make unmodified PyTorch programs faster. TorchDynamo hooks into the frame
@@ -37,9 +43,10 @@ autotuning.  I also created the [PetaBricks] programming language, a language
 that incorporates algorithmic choices to allow an integrated autotuner to
 explore search spaces of program implementations.  As an undergraduate, I did
 research with [Gene Cooperman] and helped create [DMTCP], a user-level
-distributed checkpoint/restart system.
+distributed checkpoint/restart system. -->
 
 
+[Salar Fattahi]: https://fattahi.engin.umich.edu/
 [GoDaddy Domain Appraisals]: https://www.godaddy.com/engineering/2019/07/26/domain-name-valuation/
 [acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
 [CSAIL]: http://www.csail.mit.edu/
